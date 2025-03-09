@@ -20,4 +20,5 @@ dist/
 # Ignorar los directorios que Python genera automáticamente para almacenar archivos de caché compilados (archivos .pyc)
 __pycache__/
 
+# Ignorar archivo de orientación de proyecto
 Build a Budget App Project.txt
